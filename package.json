@@ -1,0 +1,17 @@
+{
+  "name": "file-metadata",
+  "version": "1.0.0",
+  "description": "Fifth FreeCodeCamp Apis and Microservices project",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Camille HAGENBOURGER",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "multer": "^1.4.1"
+  },
+  "repository": {"type": "git", "url":""}
+}
